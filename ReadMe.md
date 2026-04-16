@@ -27,6 +27,7 @@ Our results show that the order of time complexity can change and increase drama
 
 These dataset were created for the following paper. Cite this paper if you use these programs in any academic research.
 
+```bibtex
 @inproceedings{aprFormalMethods,
   title={Exploring True Test Overfitting in Dynamic Automated Program Repair using Formal Methods (in press)},
   author={Amirfarhad Nilizadeh and Gary T. Leavens and Xuan-Bach Le and Corina S. Pasareanu and David Cok},
@@ -34,6 +35,7 @@ These dataset were created for the following paper. Cite this paper if you use t
   year={2021},
   organization={IEEE}
 }
+```
 
 
 
